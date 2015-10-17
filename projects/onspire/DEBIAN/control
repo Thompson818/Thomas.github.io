@@ -1,6 +1,6 @@
 Package: com.Thompson818.Onspire
 Name: Onspire
-Depends: anemone
+Depends: 
 Version: 0.0.4-Alpha
 Architecture: iphoneos-arm
 Description: My first Theme i have made.
