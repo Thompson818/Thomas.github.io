@@ -1,12 +1,12 @@
 Package: com.Thompson818.Onspire
-Version: 0.0.4-Alpha
+Version: 0.0.5-Alpha
 Architecture: iphoneos-arm
 Maintainer: Thomas <email@address.com>
-Filename: ./debs/com.thompson818.onspire_0.0.4-Alpha_iphoneos-arm.deb
-Size: 13741226
-MD5sum: ce8bcd12cf76e26c69ad140e1d9953de
-SHA1: 398e59cda2ca061f2024d9433654b9ab280651b4
-SHA256: 1a68b9e7b943ee5f536ba8de9db691010badfdf153ca0c63c8ab92a44917b183
+Filename: ./debs/com.thompson818.onspire_0.0.5-Alpha_iphoneos-arm.deb
+Size: 13447036
+MD5sum: a03e38a831333c8f07270d089c0b8585
+SHA1: dfdf36dd382b22d68c331efe7f097644033370bf
+SHA256: b618ad761971a426953f611bcffeda31a842207dbdc01bf4bdf2c4c2c6d301e2
 Section: Themes (Springboard)
 Description: My first Theme i have made.
 Author: Thomas <email@address.com>

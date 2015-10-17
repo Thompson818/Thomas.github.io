@@ -1,7 +1,7 @@
 Package: com.Thompson818.Onspire
 Name: Onspire
 Depends: 
-Version: 0.0.4-Alpha
+Version: 0.0.5-Alpha
 Architecture: iphoneos-arm
 Description: My first Theme i have made.
 Maintainer: Thomas <email@address.com>
